@@ -16,7 +16,7 @@
 	<gap:plugin name="org.apache.cordova.console" />
 	<gap:plugin name="org.apache.cordova.contacts" />
 
-	<icon src="icon.jpg" />
+	<icon src="img/icon.jpg" />
 
 	<access origin="*"/>
 	
