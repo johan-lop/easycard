@@ -8,7 +8,7 @@ version = "1.0.0">
 <description>
 Aplicación para el manejo de tarjetas de presentación.
 </description>
-<author href="http://phonegap.com" email="support@phonegap.com">
+<author href="http://phonegap.com" email="danielaperador@donatosoft.com">
 Donato Soft S.A.S.
 </author>
 
@@ -67,10 +67,7 @@ Define a specific version of PhoneGap to build into your app.
 <gap:splash src="res/screen/ios/screen-iphone-portrait-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 <gap:splash src="res/screen/ios/screen-ipad-portrait.png" gap:platform="ios" width="768" height="1024" />
 <gap:splash src="res/screen/ios/screen-ipad-landscape.png" gap:platform="ios" width="1024" height="768" />
-<gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
-<gap:config-file platform="ios" parent="CFBundleShortVersionString">-->
-<string>100</string>
-</gap:config-file>
+<gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />-->
 <!--
 Define access to external domains.
 <access /> - a blank access tag denies access to all external resources.
