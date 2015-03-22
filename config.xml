@@ -13,4 +13,11 @@
 	
 	<gap:platform name="android" />
 
+	<gap:plugin name="org.apache.cordova.console" />
+	<gap:plugin name="org.apache.cordova.contacts" />
+
+	<icon src="icon.jpg" />
+
+	<access origin="*"/>
+	
 </widget>
