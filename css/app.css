@@ -4,9 +4,13 @@ body{
 	background-repeat: no-repeat;
 	background-position: top right;
 }
+html,body{
+	height: 100%;
+}
 
 .mis_tarjetas{
 	color: #FFFFFF;
+	min-height: 100%;
 }
 
 header{
@@ -20,4 +24,25 @@ header{
 	padding: 0 0 0 65px;
 	color: rgba(255,255,255,0.3);
 	font-weight: lighter;
+}
+
+.btn-group-justified > .btn, .btn-group-justified > .btn-group{
+	width: 50%;
+}
+
+.footer {
+    width: 100%;
+	line-height: 45px;
+	font-size: 18px;
+	font-family: 'Helvetica';
+	color: rgba(255,255,255,0.3);
+	font-weight: lighter;
+	
+	bottom: 0;
+    left: 0;
+    position: absolute;
+}
+
+.ng-scope{
+	height: 100%;
 }
