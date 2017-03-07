@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
-	id = "com.donatosoft.easycard"
+	id = "com.co.easycard"
 	version = "1.0.0">
 	<name>EasyCard</name>
 	<description>
@@ -13,8 +13,8 @@
 	
 	<gap:platform name="android" />
 
-	<gap:plugin name="org.apache.cordova.console" />
-	<gap:plugin name="org.apache.cordova.contacts" />
+	<!--<gap:plugin name="org.apache.cordova.console" />
+	<gap:plugin name="org.apache.cordova.contacts" />-->
 
 	<icon src="img/icon.jpg" />
 
